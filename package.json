@@ -54,10 +54,7 @@
             "src/log/index.js"
           ]
         }
-      ],
-      "filesToBeRenamed": {
-        "gitignore": ".gitignore"
-      }
+      ]
     }
   }
 }
