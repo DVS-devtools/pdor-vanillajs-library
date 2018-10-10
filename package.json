@@ -34,7 +34,7 @@
     "minami": "1.*.*",
     "parcel-bundler": "1.*.*"
   },
-  "boilerplate": {
+  "pdor": {
     "type": "Vanilla Js",
     "renameOptions": {
       "replaceInFiles": [
