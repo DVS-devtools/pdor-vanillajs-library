@@ -44,7 +44,9 @@
           "files": [
             "src/index.js",
             "src/init/index.js",
-            "src/init/init.test.js"
+            "src/init/init.test.js",
+            "example/index.js",
+            "example/index.html"
           ]
         },
         {
