@@ -6,3 +6,5 @@ const foo = YourLibrary.init({
 
 document.write(foo);
 console.log(foo);
+
+YourLibrary.log({message: 'bye'});
