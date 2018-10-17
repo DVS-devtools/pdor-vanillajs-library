@@ -1,5 +1,6 @@
 # pdor-vanillajs-library  boilerplate
 
+[![Build Status](https://travis-ci.com/docomodigital/pdor-vanillajs-library.svg?branch=master)](https://travis-ci.com/docomodigital/pdor-vanillajs-library)
 [![Greenkeeper badge](https://badges.greenkeeper.io/docomodigital/pdor-react-component.svg)](https://greenkeeper.io/)
 
 Boilerplate for [pdor generator](https://github.com/docomodigital/pdor) to generate a JavaScript library.
@@ -38,7 +39,8 @@ You can find all commands for develop, maintain and publish your library on **CO
 
 ## Useful links
 
-* [Parcel](https://github.com/parcel-bundler/parcel)
+* [Webpack](https://webpack.js.org/)
+* [Babel](https://babeljs.io/)
 * [JSDoc](https://github.com/jsdoc3/jsdoc)
 * [Minami JSDoc Template](https://github.com/Nijikokun/minami)
 * [ESLint](https://github.com/eslint/eslint)
