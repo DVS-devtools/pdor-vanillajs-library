@@ -38,7 +38,6 @@ You can find all commands for develop, maintain and publish your library on **CO
 
 ## Useful links
 
-* [Parcel](https://github.com/parcel-bundler/parcel)
 * [JSDoc](https://github.com/jsdoc3/jsdoc)
 * [Minami JSDoc Template](https://github.com/Nijikokun/minami)
 * [ESLint](https://github.com/eslint/eslint)
