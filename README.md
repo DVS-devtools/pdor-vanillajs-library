@@ -38,6 +38,8 @@ You can find all commands for develop, maintain and publish your library on **CO
 
 ## Useful links
 
+* [Webpack](https://webpack.js.org/)
+* [Babel](https://babeljs.io/)
 * [JSDoc](https://github.com/jsdoc3/jsdoc)
 * [Minami JSDoc Template](https://github.com/Nijikokun/minami)
 * [ESLint](https://github.com/eslint/eslint)
