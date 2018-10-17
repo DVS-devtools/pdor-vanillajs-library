@@ -1,5 +1,6 @@
 # pdor-vanillajs-library  boilerplate
 
+[![Build Status](https://travis-ci.com/docomodigital/pdor-vanillajs-library.svg?branch=master)](https://travis-ci.com/docomodigital/pdor-vanillajs-library)
 [![Greenkeeper badge](https://badges.greenkeeper.io/docomodigital/pdor-react-component.svg)](https://greenkeeper.io/)
 
 Boilerplate for [pdor generator](https://github.com/docomodigital/pdor) to generate a JavaScript library.
