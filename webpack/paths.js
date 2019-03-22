@@ -1,4 +1,5 @@
 const path = require('path');
+const fs = require('fs');
 
 const root = path.resolve(__dirname, '../');
 const entryPath = path.resolve(root, 'src', 'index.js');
