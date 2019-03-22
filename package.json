@@ -70,7 +70,8 @@
             "src/init/init.test.js",
             "example/index.js",
             "example/index.html",
-            "webpack/webpack.config.js"
+            "webpack/webpack.common.js",
+            "webpack/webpack.prod.js"
           ]
         },
         {
