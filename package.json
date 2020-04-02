@@ -43,7 +43,7 @@
     "css-loader": "^3.0.0",
     "eslint": "5.*.*",
     "eslint-config-airbnb-base": "13.*.*",
-    "eslint-loader": "^2.1.1",
+    "eslint-loader": "^3.0.4",
     "eslint-plugin-import": "^2.17.2",
     "file-loader": "^4.0.0",
     "html-webpack-plugin": "^3.2.0",
